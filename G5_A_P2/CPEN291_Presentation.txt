@@ -1,0 +1,18 @@
+Last but not least, I am going to introduce the voice control
+functionality. The hardware module of the voice control functionality
+is composed of a Raspberry Pi,an Arduino, a webcam and a speaker.
+And the software module contains Arduino code, Python code ,and the 
+Alexa Voice Service of Amazon. The voice control functionality makes our system
+easier to use and more user-friendly. For example, you can directly 
+ask the pi ''Alexa, ask computer to turn on the light", to turn on the 
+light, "open the door" to open the door and so on; Besides, if u want to know
+the temperature, humidity, light level and other data at ur home , u can directly
+ask alexa,
+or you can tell it to open Victoria Security data page to view the 
+data on our website.  Also, u can open your gmail, facebook, 
+or any other website with an url using ur voice. You need to add the words "ask computer", 
+since thats the activation words of our customised function on Alexa server.
+
+In addtion to our own functions for home automation, you can also use a 
+lot of built in functions of Alexa, such as asking Alexa to live stream news 
+or play music.
