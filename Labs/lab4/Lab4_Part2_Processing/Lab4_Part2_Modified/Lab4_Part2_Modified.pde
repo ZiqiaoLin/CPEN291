@@ -1,4 +1,4 @@
-/* Author: Yuxiang Huang
+/* Author: Yuxiang Huang , Ziqiao Lin
  * Date: February 3th, 2017
  * Purpose: To get a better understanding of designing 
  * a user interface and Processing; finsih CPEN 291
