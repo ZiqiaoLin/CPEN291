@@ -1,0 +1,9 @@
+Consumer Key (API Key)	aW0c4ZRktv0DRjlPBJ1WCWenE
+Consumer Secret (API Secret)	LcxzcNqOeH1UYdWK3nmNMhoFEYnFN9ZLpnw1SqXT3yLuytbur8
+
+/*********************************************************/
+Access Token	710166322907373569-bvkvV865MG02oqtzyLlZRNLqorZCav7
+Access Token Secret	d7UUybjwGJ9Xjg4QWJ9U3xHP2edmfOel48FXqyKZ3tAOh
+Access Level	Read and write
+Owner	DAnielL_HuAnGg
+Owner ID	710166322907373569
